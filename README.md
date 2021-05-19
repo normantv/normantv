@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Norman, an innovator born and raised in the island of Puerto Rico. 🇵🇷 Currently a senior at Boston University studying Computer Engineering and Technology Innovation, I’m passionate about the intersection of technology, business, and design. 
+I’m Norman, an innovator born and raised in the island of Puerto Rico. 🇵🇷  I’m a Computer Engineering Graduate from Boston University with a concentration in Technology Innovation aspiring to lead the next big product launches in tech! I’m passionate about the intersection of technology, business, and design. 
 
 ## 🌱 I’m currently learning
 👨🏻‍💻 Python, Swift, C++
